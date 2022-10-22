@@ -1,7 +1,15 @@
-<h3 align="center">Hi there, I'm Julia</a> 
+<h3 align="center">Hi there, I'm Julia 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/></h3>
-<h6 align="center">Computer science student from Ukraine</h6>
+<h6 align="center">Junior .NET developer from Ukraine</h6>
+<h6 align="center">Student of Kyiv Polytechnic Institute, FICT</h6>
 
+⚡️Skills:
+- C#, .NET
+- ASP.NET Core, MVC, WebAPI
+- T-SQL
+- Entity Framework, Dapper
+- Design patterns, SOLID
+- HTML5, CSS3, Bootstrap, JS
 
 <p></p>
 <p align="center">
